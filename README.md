@@ -2,7 +2,7 @@
 ## Project Overview
 The main objective of this project is to analyse the sales performance of a firm over a period of time for a growth-driven decision to be made. I also aim to identify the sales trend ,the category of the product that sells most. I also want to analyse the rating from the firm’s customers to know the performance of the firm. This analysis was conducted from scratch using MS EXCEL.
 ## Data Source
-The data set I used for this analysis was gotten from <a href= "https://www.kaggle.com/datasets?fileType=csv"> Kaggle </a> . It contains a well detailed of sales record and some feedback from the customers from march 2024 till March 2025. You can also download here
+The data set I used for this analysis was gotten from <a href= "https://www.kaggle.com/datasets?fileType=csv"> Kaggle </a> . It contains a well detailed of sales record and some feedback from the customers from march 2024 till March 2025. You can also download here https://github.com/Optimism01/Company-Sales-Analysis/blob/main/project3%20last.xlsx 
 ## Tools
 MS EXCEL : Data processing.
 MS EXCEL : Data visualization.
