@@ -8,17 +8,17 @@ MS EXCEL : Data processing.
 
 MS EXCEL : Data visualization.
 ## Questions
-•	What is the total sales made?
+•	What was the total sales made?
 
 •	What category of product is selling most ?
 
-•	What product has the highest sales?
+•	What product had the highest sales?
 
-•	Which product category is selling most?
+•	Which product category sells most?
 
-•	What mode of payment do customers prefer most?
+•	What mode of payment did customers prefer most?
 
-•	How much do customers enjoy the firm’s products ?
+•	How much did customers enjoy the firm’s products ?
 
 •	The highest sales was made in which month?
 
